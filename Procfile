@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://Abegenk:U14ZT2HE8XaS74yD@cluster0.rfdmq6q.mongodb.net/?retryWrites=true&w=majority'
+worker: npm i -g pm2 && pm2 start zeeone.js && pm2 save && pm2 logs
