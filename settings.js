@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "AFKSTORE - BOTོ" //namabot kalian
+global.botname = "Bjorkaོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄حبل مولنོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.abegenk.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/UCR6V0iYPJk6wMCErXmcZNEQ" //bebas asal jan hapus
@@ -42,14 +42,14 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© AFKSTORE - BOTོ' //sticker wm ubah
+global.packname = '© AFKSTOREོ' //sticker wm ubah
 global.author = 'Di Buat Oleh حبل مولن' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "100",
-    free: 15
+    free: 5
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
