@@ -192,10 +192,10 @@ exports.OffBef = (command) => {
     return `${command} Berhasil Di Nonaktifkan !`
 }
 exports.OkMute = () => {
-    return `Bot Telah Di Mute Di Group Ini`
+    return `*Mode admin ON*`
 }
 exports.OkUnMute = () => {
-    return `Bot Berhasil Di UnMute`
+    return `*Mode publik ON*`
 }
 exports.OkUnBanC = () => {
     return `Bot Berhasil Di unban chat`
@@ -1711,6 +1711,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ A b e e y
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -1735,7 +1736,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di berbagai platform
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
