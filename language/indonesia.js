@@ -192,7 +192,7 @@ exports.OffBef = (command) => {
     return `${command} Berhasil Di Nonaktifkan !`
 }
 exports.OkMute = () => {
-    return `*Mode admin ON*`
+    return `*Mode Dictator ON*`
 }
 exports.OkUnMute = () => {
     return `*Mode publik ON*`
